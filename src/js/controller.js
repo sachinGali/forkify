@@ -18,6 +18,8 @@ if (module.hot) {
 }
 ///////////////////////////////////////
 
+
+
 const controlRecipe = async function () {
   try {
     const id = window.location.hash.slice(1);
